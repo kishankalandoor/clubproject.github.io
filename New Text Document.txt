@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Clubs</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container text-center py-5">
+    
+ <img src="https://nmamit.nitte.edu.in/img/nitte-nmamit-logo.png" alt="NMAMIT Logo" style="width: 70%;">
+  
+        <p>NMAM Institute of Technology, Nitte, Karkala</p>
+    </div>
+
+    <div class="bg-image" style="background-image: url('https://www.finiteloop.co.in/_next/image?url=%2Fassets%2Fhackfest.jpg&w=640&q=75'); background-size: cover; background-attachment: fixed; height: 50vh; padding-top: 150px;">
+    </div>
+    
+    <section id="about" class="py-5">
+        <div class="container text-center">
+            
+        </div>
+    </section>
+    <section id="about" class="py-5">
+        <div class="container text-center">
+            
+        </div>
+    </section>
+  <div class="bg-image" style="background-image: url('https://aadarsh231099.github.io/hackerearth_hub_website/hub-logo.jpg'); background-size: cover; background-attachment: fixed; height: 50vh; padding-top: 150px;">
+    </div>
+
+    <section id="about" class="py-5">
+        <div class="container text-center">
+            
+        </div>
+    </section>
+
+    <footer class="bg-dark text-white py-3">
+        <div class="container text-center">
+            &copy; 2023 Kishan. All rights reserved.
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
